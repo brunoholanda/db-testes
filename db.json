@@ -1,47 +1,49 @@
-[
-    {
-        "id": "2d966b32-a3b2-4433-bdba-b3877a7ccfcf",
-        "name": "Alice Johnson",
-        "email": "alice.johnson@example.com",
-        "address": {
-            "city": "Los Angeles",
-            "street": "High St"
+{
+    "users": [
+        {
+            "id": "2d966b32-a3b2-4433-bdba-b3877a7ccfcf",
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "address": {
+                "city": "Los Angeles",
+                "street": "High St"
+            }
+        },
+        {
+            "id": "77949ef3-6ca3-486f-b1e9-d0f8558388e5",
+            "name": "Dave Anderson",
+            "email": "dave.anderson@example.com",
+            "address": {
+                "city": "New York",
+                "street": "Park Ave"
+            }
+        },
+        {
+            "id": "0c400176-eee8-43fe-b491-8bccad7e268e",
+            "name": "Alice Anderson",
+            "email": "alice.anderson@example.com",
+            "address": {
+                "city": "Phoenix",
+                "street": "Pine St"
+            }
+        },
+        {
+            "id": "f1414bd9-75eb-41cc-b32d-31e80d860e9a",
+            "name": "Dave Anderson",
+            "email": "dave.anderson@example.com",
+            "address": {
+                "city": "Houston",
+                "street": "Park Ave"
+            }
+        },
+        {
+            "id": "91294d58-c4e7-494d-9e70-33993ea27f23",
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "address": {
+                "city": "New York",
+                "street": "Oak St"
+            }
         }
-    },
-    {
-        "id": "77949ef3-6ca3-486f-b1e9-d0f8558388e5",
-        "name": "Dave Anderson",
-        "email": "dave.anderson@example.com",
-        "address": {
-            "city": "New York",
-            "street": "Park Ave"
-        }
-    },
-    {
-        "id": "0c400176-eee8-43fe-b491-8bccad7e268e",
-        "name": "Alice Anderson",
-        "email": "alice.anderson@example.com",
-        "address": {
-            "city": "Phoenix",
-            "street": "Pine St"
-        }
-    },
-    {
-        "id": "f1414bd9-75eb-41cc-b32d-31e80d860e9a",
-        "name": "Dave Anderson",
-        "email": "dave.anderson@example.com",
-        "address": {
-            "city": "Houston",
-            "street": "Park Ave"
-        }
-    },
-    {
-        "id": "91294d58-c4e7-494d-9e70-33993ea27f23",
-        "name": "Alice Johnson",
-        "email": "alice.johnson@example.com",
-        "address": {
-            "city": "New York",
-            "street": "Oak St"
-        }
-    }
-]
+    ]
+}
